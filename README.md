@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Luis 👋
 
-<!--
-**Luis-Alain/Luis-Alain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Software Development Student**
 
-Here are some ideas to get you started:
+I'm a software development student in Panama, building backend APIs and full-stack apps — from database design to deployment on AWS with Docker. Right now I'm pushing further into AI Engineering (LLMs, RAG pipelines) and CI/CD, growing beyond full-stack into building smarter, more automated systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,fastapi,nextjs,react,html,css,supabase,postgres,docker,aws,git,linux&theme=dark" />
+</p>
+
+---
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luis-alain-392b7229a/) · 🌐 [Portfolio](https://your-portfolio-link.com)
