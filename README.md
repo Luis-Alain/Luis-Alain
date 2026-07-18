@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Software Development Student**
 
-I'm a software development student in Panama, building backend APIs and full-stack apps — from database design to deployment on AWS with Docker. Right now I'm pushing further into AI Engineering (LLMs, RAG pipelines) and CI/CD, growing beyond full-stack into building smarter, more automated systems.
+I'm a software development student in Panama 🇵🇦, building backend APIs and full-stack apps — from database design to deployment on AWS with Docker. Right now I'm pushing further into AI Engineering (LLMs, RAG pipelines) and CI/CD, growing beyond full-stack into building smarter, more automated systems.
 
 ---
 
