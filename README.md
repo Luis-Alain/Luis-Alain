@@ -9,7 +9,7 @@ I'm a software development student in Panama 🇵🇦, building backend APIs and
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,fastapi,nextjs,react,html,css,supabase,postgres,docker,aws,git,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,py,fastapi,nextjs,react,html,css,supabase,postgres,docker,aws,git,linux&theme=dark" />
 </p>
 
 ---
