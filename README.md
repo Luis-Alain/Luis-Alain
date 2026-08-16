@@ -1,8 +1,8 @@
 ### Hi, I'm Luis 👋
 
-**Full-Stack Developer | Software Development Student**
+**Software Engieer | CS Student**
 
-I'm a software development student in Panama 🇵🇦, building backend APIs and full-stack apps — from database design to deployment on AWS with Docker. Right now I'm pushing further into AI Engineering (LLMs, RAG pipelines) and CI/CD, growing beyond full-stack into building smarter, more automated systems.
+I'm a Computer Science student in Panama 🇵🇦, building backend APIs and full-stack apps — from database design to deployment on AWS. Right now I'm pushing further into AI Engineering (LLMs, RAG pipelines) and CI/CD, growing beyond full-stack into building smarter, more automated systems.
 
 ---
 
