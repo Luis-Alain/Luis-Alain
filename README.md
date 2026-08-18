@@ -2,7 +2,8 @@
 
 **Software Engieer | CS Student**
 
-I'm a Computer Science student in Panama 🇵🇦, building backend APIs and full-stack apps — from database design to deployment on AWS. Right now I'm pushing further into AI Engineering (LLMs, RAG pipelines) and CI/CD, growing beyond full-stack into building smarter, more automated systems.
+I'm a Computer Science student in Panama 🇵🇦, building backend APIs and full-stack apps. Right now I'm pushing further into AI Engineering (LLMs, RAG pipelines) and CI/CD, growing beyond full-stack into building smarter, more automated systems. 
+I also edit cool videos 😉🎥
 
 ---
 
