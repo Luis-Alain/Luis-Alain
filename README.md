@@ -15,4 +15,4 @@ I also edit cool videos 😉🎥
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luis-alain-392b7229a/) · 🌐 [Portfolio](https://your-portfolio-link.com)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luis-alain-392b7229a/) 
