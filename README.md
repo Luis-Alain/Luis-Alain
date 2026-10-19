@@ -10,7 +10,7 @@ I also edit cool videos 😉🎥
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,fastapi,nextjs,react,html,css,supabase,postgres,docker,azure,terraform,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,py,react,nextjs,nodejs,fastapi,supabase,postgres,docker,aws,terraform,git,linux&theme=dark" />
 </p>
 
 ---
